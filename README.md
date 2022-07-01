@@ -1,2 +1,2 @@
 # My-Resume
-Checkout my latest resume here..
+Checkout about my education,work experience,projects here.
